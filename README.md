@@ -15,4 +15,4 @@ Make sure you have MATLAB R2019b or later installed. On the Command Line, run th
 ![alt text](<https://github.com/nehemgr/Fruit-Recognition/blob/main/Report/sample_run.jpg>)
 
 ## Results
-![alt text](<https://github.com/nehemgr/Fruit-Recognition/blob/main/Report/results.jpg>)
+![alt text](<https://github.com/nehemgr/Fruit-Recognition/blob/main/Report/results.JPG>)
