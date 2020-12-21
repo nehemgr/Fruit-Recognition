@@ -12,4 +12,4 @@ Make sure you have MATLAB R2019b or later installed. On the Command Line, run th
 7. The binary mask and the foreground image will be displayed. The name of the fruit will be written in the Command Window.
 
 ## Project Demo
-![alt text](https://github.com/nehemgr/Fruit-Recognition/blob/Report/sample_run.jpg)
+![alt text](<https://github.com/nehemgr/Fruit-Recognition/Report/sample_run.jpg>)
